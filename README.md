@@ -38,9 +38,34 @@ Designed for smooth performance, great UX, and modern style.
 
 - 📁 Uses Mock APIs (via JSON Server or MockAPI.io)  
 - 🍽️ Dynamic restaurant & menu data fetching  
-- 🧪 Simulated order process  
+- 🧪 Simulated order process
 
 ---
+
+### ⚙️ **Installation**
+1. Clone the repository:
+    ```bash
+   git clone https://github.com/yourusername/foodly-frontend.git
+    ```
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Run the development server:
+    ```bash
+    npm run dev
+    ```
+
+## **📸 UI Preview**  
+🚀 **Coming Soon!** 🎨  
+
+---  
+
+## **📩 Contributing**  
+🙌 Contributions are welcome! Feel free to fork the repo and submit a pull request.  
+
+💙 **Built with ❤️ by [Manu Kumar Pal](https://github.com/manukumar07)**  
+
 
 
 
