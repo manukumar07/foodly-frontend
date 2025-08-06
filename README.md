@@ -1,6 +1,6 @@
 # 🍔 Foodly
 
-**Foodly** is a sleek, responsive React.js frontend app for food delivery.  
+> **Foodly** is a sleek, responsive React.js frontend app for food delivery.  
 Browse restaurants, explore menus, add items to cart, and place simulated orders — all powered by mock APIs.  
 Designed for smooth performance, great UX, and modern style.
 
