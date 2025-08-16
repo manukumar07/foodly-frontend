@@ -58,7 +58,8 @@
 
 ## **📸 UI Preview**
 
-🚀 **Coming Soon!** 🎨
+<img width="1920" height="1824" alt="foodly" src="https://github.com/user-attachments/assets/517af877-76d1-4c89-a787-33188fe073fe" />
+
 
 ---
 
